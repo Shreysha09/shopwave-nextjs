@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ShopWave — Next.js E-Commerce Learning Project
 
 A beginner-friendly, fully working e-commerce POC built with **Next.js (App Router)**,
@@ -96,3 +97,6 @@ No Redux, no real payment gateway, no backend/database, no production-grade
 auth (passwords are stored in plaintext in localStorage — fine for a local
 learning POC, never for anything real). These are called out in code
 comments wherever they matter.
+=======
+# shopwave-nextjs
+>>>>>>> d2aae99c12b517d3cdbe382ee21a1eadf5ee3c4f
